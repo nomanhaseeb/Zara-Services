@@ -1,0 +1,115 @@
+
+div{
+border:white medium solid;
+padding:5px;
+}
+body{
+	background-image: ("fondo.jpg");
+}
+.logo{
+position: relative;
+animation-duration: 4s;
+width: 120px;
+animation-name: example;
+animation-delay: 5s;
+}
+@-webkit-keyframes example {
+  0%   {background-color:transparent; left:0px; top:0px;}
+  50%  {background-color:transparent; left:1800px; top:0px;}
+  100% {background-color:transparent; left:0px; top:0px;}
+}
+#slider{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	width: auto;
+	height: auto;
+	align-items: center;
+	padding: auto;
+	float: center;
+}
+.asus{
+	max-width: 100%;
+	height: auto;
+	
+}
+#Servicios{
+	background-color: #f0f0f0;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	width: auto;
+	height: auto;
+	padding: auto;
+	float: center;
+	align-items: center;
+	border-radius: 1em;
+}
+#destacados{
+	margin-top: 20px;
+	width: 400px;
+	height: auto;
+	float: left;
+	margin-left: 50px;
+	background-color: #f0f0f0;
+	border-radius: 1em;
+}
+#suscripcion{
+	margin-top: 20px;
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 50px;
+	align-items: right;
+	border-radius: 1em;
+	background-image: 
+
+}
+#suscripcion aside{
+	border: #DAA520 solid;
+	border-radius: 1em;
+	width: 400px;
+	height: 600px;
+	float: left;
+	margin-right: 5px;
+	text-orientation: justify;
+}
+aside img{
+	width: 200px;
+	align-items: right;
+}
+.table td{
+	border-radius: 1em;
+}
+.table tr{
+	border-radius: 1em;
+}
+
+.elite{
+
+	width: 350px;
+	height: 180px;
+}
+.Razer{
+	width: 350px;
+	height: 180px;
+}
+.pie{
+background-color: #f0f0f0;
+font-family: Stencil;
+font-style: color:  #DAA520;
+width: 1888px;
+height: 200px;
+float: left;
+border-radius: 1em;
+}
+a:hover {
+  color: #FF00FF;
+}
+.Created{
+	writing-mode: vertical-rl;
+}
+.nombres{
+	 writing-mode: horizontal-tb;
+}
+

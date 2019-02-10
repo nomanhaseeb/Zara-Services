@@ -1,0 +1,36 @@
+div{
+border:#338aff medium solid;
+padding:5px;
+}
+#Servicios {
+  display: flex;
+  flex-wrap: wrap;
+}
+#soporte{
+	width: 23%;
+	height: 400px;
+	margin: 10px;
+	border-radius: 0.5em;
+	flex-wrap: wrap;
+}
+#gestion-usuarios{
+	width: 23%;
+	height: 400px;
+	margin: 10px;
+	border-radius: 0.5em;
+  	flex-wrap: wrap;
+}
+#cursos{
+	width: 23%;
+	height: 400px;
+	margin: 10px;
+	border-radius: 0.5em;
+	flex-wrap: wrap;	
+}
+#control{
+	width: 23%;
+	height: 400px;
+	margin: 10px;
+	border-radius: 0.5em;
+	flex-wrap: wrap;	
+}

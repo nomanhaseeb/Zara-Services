@@ -1,0 +1,49 @@
+
+div{
+border:#FFFFFF;
+}
+#Productos {
+  display: flex;
+  flex-wrap: wrap;
+}
+#smartphones{
+	width: auto;
+	height: auto;
+	padding: auto;
+	margin: 10px;
+}
+.Movil{
+  width: 100%;
+  height: auto;
+  cursor:pointer;
+  float: left;
+}
+#Portatiles{
+	width: auto%;
+	height: 500%;
+	min-width: 10%;
+	margin: 10px;
+}
+.laptop{
+	 float: left;
+}
+
+#sobremesas{
+	width: auto;
+	height: 500px;
+	min-width: 10%;
+	margin: 10px;
+	float: left;
+}
+.sobremesa:hover {
+	-webkit-transform: scale(1.1);
+}
+
+.Movil:hover {
+	-webkit-transform: scale(1.1);
+}
+.laptop:hover {
+	-webkit-transform: scale(1.1);
+
+}
+
